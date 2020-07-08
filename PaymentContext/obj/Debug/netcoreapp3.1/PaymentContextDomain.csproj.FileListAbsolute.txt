@@ -1,8 +1,0 @@
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\obj\Debug\netcoreapp3.1\PaymentContextDomain.csproj.CoreCompileInputs.cache
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\obj\Debug\netcoreapp3.1\PaymentContextDomain.AssemblyInfoInputs.cache
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\obj\Debug\netcoreapp3.1\PaymentContextDomain.AssemblyInfo.cs
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\bin\Debug\netcoreapp3.1\PaymentContextDomain.deps.json
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\bin\Debug\netcoreapp3.1\PaymentContextDomain.dll
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\bin\Debug\netcoreapp3.1\PaymentContextDomain.pdb
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\obj\Debug\netcoreapp3.1\PaymentContextDomain.dll
-C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContext\obj\Debug\netcoreapp3.1\PaymentContextDomain.pdb

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PaymentContextTests",
+    "\\PaymentContextTests\\obj",
+    "\\PaymentContextTests\\obj\\Debug",
+    "\\PaymentContextTests\\obj\\Debug\\netcoreapp3.1",
+    "\\PaymentContextTests\\obj\\Release",
+    "\\PaymentContextTests\\obj\\Release\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\PaymentContext.sln",
+  "PreviewInSolutionExplorer": false
+}

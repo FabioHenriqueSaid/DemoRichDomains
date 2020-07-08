@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRik9CYu7ObYswNEVtqEQLf/yD7SdIO6sboQmfWILhQVUefyy9IpGjIUAViQ9mpo/B+abj/xtByDmRXpceEXTA==",
+  "dgSpecHash": "vDQwi4d+UYt8S2HvXpUN3nyDNBj/6rg5yolxeBsj612xK+VgkkFT4+MKF+hoTtMx4r8HZEuUwk/UGSQXPwyUrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContext\\PaymentContextDomain.csproj",
+  "projectFilePath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextDomain\\PaymentContextDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
