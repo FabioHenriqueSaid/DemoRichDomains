@@ -1,0 +1,8 @@
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\bin\Debug\netcoreapp3.1\PaymentContextShared.deps.json
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\bin\Debug\netcoreapp3.1\PaymentContextShared.dll
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\bin\Debug\netcoreapp3.1\PaymentContextShared.pdb
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.csproj.CoreCompileInputs.cache
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.AssemblyInfoInputs.cache
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.AssemblyInfo.cs
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.dll
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.pdb

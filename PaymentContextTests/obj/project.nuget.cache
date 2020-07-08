@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rkyepZ7M21a+DwVh7yudv9LfVBdVUqOqxeHbuaOd32U/Ft/5j7qrEKQ0q53kMx57uByRX/0CdOUehcwVz1d8Xg==",
+  "dgSpecHash": "x3vAGnZUlGs3hwscsFN9TE60oo4GGJJU+gFDYBj5LmxwI/g7p58mNXrqkjlBaNLMjXgxI7E8UW5Wkz41V9+w4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextTests\\PaymentContextTests.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio.rezende\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

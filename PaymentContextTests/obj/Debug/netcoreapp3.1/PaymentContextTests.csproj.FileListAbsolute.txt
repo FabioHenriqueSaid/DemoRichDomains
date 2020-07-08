@@ -1,0 +1,12 @@
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.deps.json
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.dll
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csprojAssemblyReference.cache
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.AssemblyInfoInputs.cache
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.AssemblyInfo.cs
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csproj.CoreCompileInputs.cache
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.pdb
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextDomain.dll
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextDomain.pdb
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csproj.CopyComplete
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.dll
+C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PaymentContextShared/1.0.0": {
+        "runtime": {
+          "PaymentContextShared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentContextShared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
