@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextTests\\PaymentContextTests.csproj": {}
+    "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\PaymentContextTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextTests\\PaymentContextTests.csproj": {
+    "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\PaymentContextTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextTests\\PaymentContextTests.csproj",
+        "projectUniqueName": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\PaymentContextTests.csproj",
         "projectName": "PaymentContextTests",
-        "projectPath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextTests\\PaymentContextTests.csproj",
+        "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\PaymentContextTests.csproj",
         "packagesPath": "C:\\Users\\fabio.rezende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextTests\\obj\\",
+        "outputPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio.rezende\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContext\\PaymentContextDomain.csproj": {
-                "projectPath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContext\\PaymentContextDomain.csproj"
+              "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContext\\PaymentContextDomain.csproj": {
+                "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContext\\PaymentContextDomain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContext\\PaymentContextDomain.csproj": {
+    "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContext\\PaymentContextDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContext\\PaymentContextDomain.csproj",
+        "projectUniqueName": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContext\\PaymentContextDomain.csproj",
         "projectName": "PaymentContextDomain",
-        "projectPath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContext\\PaymentContextDomain.csproj",
+        "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContext\\PaymentContextDomain.csproj",
         "packagesPath": "C:\\Users\\fabio.rezende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContext\\obj\\",
+        "outputPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContext\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio.rezende\\AppData\\Roaming\\NuGet\\NuGet.Config",

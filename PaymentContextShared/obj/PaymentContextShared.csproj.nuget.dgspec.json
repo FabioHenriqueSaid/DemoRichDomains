@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextShared\\PaymentContextShared.csproj": {}
+    "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextShared\\PaymentContextShared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextShared\\PaymentContextShared.csproj": {
+    "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextShared\\PaymentContextShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextShared\\PaymentContextShared.csproj",
+        "projectUniqueName": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextShared\\PaymentContextShared.csproj",
         "projectName": "PaymentContextShared",
-        "projectPath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextShared\\PaymentContextShared.csproj",
+        "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextShared\\PaymentContextShared.csproj",
         "packagesPath": "C:\\Users\\fabio.rezende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio.rezende\\Desktop\\Arquiteto de Software\\Estagiario\\Modelando Domínios Ricos\\dev\\Payment\\PaymentContextShared\\obj\\",
+        "outputPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextShared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio.rezende\\AppData\\Roaming\\NuGet\\NuGet.Config",
