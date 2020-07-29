@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PaymentContextDomain.ValueObjects;
+using System;
 
 namespace PaymentContextDomain.Entities
 {
@@ -10,7 +11,7 @@ namespace PaymentContextDomain.Entities
             decimal total,
             decimal totalPaid, 
             string owner, 
-            string document,
+            Document document,
             string address
             )
         {
@@ -24,13 +25,13 @@ namespace PaymentContextDomain.Entities
             Address = address;
         }
 
-        public string Number { get; private set; }
+       public string Number { get; private set; }
        public DateTime PaidDate { get; private set; }
        public DateTime ExpireDate { get; private set; }
        public decimal Total { get; private set; }
        public decimal TotalPaid { get; private set; }
        public string Owner { get; private set; }
-       public string Document { get; private set; }
+       public Document Document { get; private set; }
        public string Address { get; private set; }
     }
 }

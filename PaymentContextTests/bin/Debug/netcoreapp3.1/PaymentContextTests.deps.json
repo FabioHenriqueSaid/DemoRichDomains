@@ -8,11 +8,20 @@
     ".NETCoreApp,Version=v3.1": {
       "PaymentContextTests/1.0.0": {
         "dependencies": {
+          "Flunt": "1.0.5",
           "MSTest.TestFramework": "2.1.2",
           "PaymentContextDomain": "1.0.0"
         },
         "runtime": {
           "PaymentContextTests.dll": {}
+        }
+      },
+      "Flunt/1.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
         }
       },
       "MSTest.TestFramework/2.1.2": {
@@ -28,8 +37,20 @@
         }
       },
       "PaymentContextDomain/1.0.0": {
+        "dependencies": {
+          "Flunt": "1.0.5",
+          "PaymentContextShared": "1.0.0"
+        },
         "runtime": {
           "PaymentContextDomain.dll": {}
+        }
+      },
+      "PaymentContextShared/1.0.0": {
+        "dependencies": {
+          "Flunt": "1.0.5"
+        },
+        "runtime": {
+          "PaymentContextShared.dll": {}
         }
       }
     }
@@ -40,6 +61,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Flunt/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2p1B/LLsMf0bGwyMQK48/278OXTodXn3HyTU1v7fr/x0bNfrVSNC1Do1PxbgiOlDLChtAbtt1kPgXFqUnGAagg==",
+      "path": "flunt/1.0.5",
+      "hashPath": "flunt.1.0.5.nupkg.sha512"
+    },
     "MSTest.TestFramework/2.1.2": {
       "type": "package",
       "serviceable": true,
@@ -48,6 +76,11 @@
       "hashPath": "mstest.testframework.2.1.2.nupkg.sha512"
     },
     "PaymentContextDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentContextShared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

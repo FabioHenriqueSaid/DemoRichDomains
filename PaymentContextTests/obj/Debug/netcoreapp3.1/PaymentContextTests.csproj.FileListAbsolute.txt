@@ -10,3 +10,16 @@ C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domín
 C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csproj.CopyComplete
 C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.dll
 C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.deps.json
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextDomain.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextDomain.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csprojAssemblyReference.cache
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.AssemblyInfoInputs.cache
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.AssemblyInfo.cs
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csproj.CopyComplete
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextShared.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextShared.pdb

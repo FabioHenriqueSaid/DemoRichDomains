@@ -6,3 +6,11 @@ C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domín
 C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.AssemblyInfo.cs
 C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.dll
 C:\Users\fabio.rezende\Desktop\Arquiteto de Software\Estagiario\Modelando Domínios Ricos\dev\Payment\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\bin\Debug\netcoreapp3.1\PaymentContextShared.deps.json
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\bin\Debug\netcoreapp3.1\PaymentContextShared.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\bin\Debug\netcoreapp3.1\PaymentContextShared.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.AssemblyInfoInputs.cache
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.AssemblyInfo.cs
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.csprojAssemblyReference.cache
