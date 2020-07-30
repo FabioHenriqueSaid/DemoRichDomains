@@ -23,3 +23,4 @@ C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.pdb
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextShared.dll
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextShared.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csproj.CoreCompileInputs.cache

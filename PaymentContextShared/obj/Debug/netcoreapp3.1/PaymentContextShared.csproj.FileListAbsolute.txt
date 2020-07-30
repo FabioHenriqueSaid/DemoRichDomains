@@ -14,3 +14,4 @@ C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.dll
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.pdb
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.csprojAssemblyReference.cache
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextShared\obj\Debug\netcoreapp3.1\PaymentContextShared.csproj.CoreCompileInputs.cache

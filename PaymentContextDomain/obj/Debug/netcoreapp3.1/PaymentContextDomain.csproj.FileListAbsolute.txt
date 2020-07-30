@@ -9,3 +9,4 @@ C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextDomain\bin\Debug\netcoreapp3
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextDomain\bin\Debug\netcoreapp3.1\PaymentContextShared.pdb
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextDomain\obj\Debug\netcoreapp3.1\PaymentContextDomain.csprojAssemblyReference.cache
 C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextDomain\obj\Debug\netcoreapp3.1\PaymentContextDomain.csproj.CopyComplete
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextDomain\obj\Debug\netcoreapp3.1\PaymentContextDomain.csproj.CoreCompileInputs.cache

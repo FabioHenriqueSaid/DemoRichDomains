@@ -1,4 +1,5 @@
-﻿using PaymentContextDomain.ValueObjects;
+﻿using PaymentContext.Domain.ValueObjects;
+using PaymentContextDomain.ValueObjects;
 using PaymentContextShared.Entities;
 using System.Collections.Generic;
 using System.Linq;

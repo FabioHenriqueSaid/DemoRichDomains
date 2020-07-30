@@ -1,4 +1,5 @@
-﻿using PaymentContextShared.ValueObjects;
+﻿using Flunt.Validations;
+using PaymentContextShared.ValueObjects;
 
 namespace PaymentContextDomain.ValueObjects
 {
@@ -8,6 +9,13 @@ namespace PaymentContextDomain.ValueObjects
         {
             FirstName = firstName;
             LastName = lastName;
+
+            AddNotifications(new Contract()
+                .Requires()
+                .HasMinLen(FirstName,3,"Name.FirstName","Nome deve conter pelo menos 3 caracteres")
+                .HasMinLen(LastName, 3, "Name.LastName", "SobreNome deve conter pelo menos 3 caracteres")
+                );
+                
         }
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
