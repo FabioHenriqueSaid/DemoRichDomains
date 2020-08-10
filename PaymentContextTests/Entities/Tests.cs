@@ -11,7 +11,6 @@ namespace PaymentContextTests.Entities
         public void TestMethod()
         {
             var wallet = new Wallet();
-            wallet.Orders;
         }
     }
 }
