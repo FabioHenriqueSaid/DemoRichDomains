@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ExchangeContextDomain\ExchangeContextDomain.csproj" />
     <ProjectReference Include="..\PaymentContextDomain\PaymentContextDomain.csproj" />
     <ProjectReference Include="..\PaymentContext\PaymentContextDomain.csproj" />
   </ItemGroup>
