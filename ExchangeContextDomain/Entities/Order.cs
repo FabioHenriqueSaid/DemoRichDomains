@@ -8,7 +8,9 @@ namespace ExchangeContextDomain.Entities
         {
             CreateDate = DateTime.Now;
             Active = true;
+            Number = Guid.NewGuid().ToString();
         }
+        public string Number { get; private set; }
         public DateTime CreateDate { get; private set; }
         public DateTime EndDate { get; private set; }
         public bool Active { get; private set; }
