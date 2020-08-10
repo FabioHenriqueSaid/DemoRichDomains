@@ -1,7 +1,6 @@
 ﻿namespace ExchangeContextDomain.Entities
 {
-    public class Wallet
+    public class Order
     {
-
     }
 }
