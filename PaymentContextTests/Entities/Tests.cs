@@ -5,16 +5,13 @@ using System;
 namespace PaymentContextTests.Entities
 {
     [TestClass]
-    public class ClientTests
+    public class Tests
     {
         [TestMethod]
         public void TestMethod()
         {
-            var client = new Client("Fábio",
-                "Henrique",
-                "13227956544",
-                "fabiosaid635@gmail.com",
-               DateTime.Now);
+            var wallet = new Wallet();
+            wallet.BuyBitcoin();
         }
     }
 }
