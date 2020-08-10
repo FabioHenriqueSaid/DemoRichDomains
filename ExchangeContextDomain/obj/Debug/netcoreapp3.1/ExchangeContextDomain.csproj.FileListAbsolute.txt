@@ -1,0 +1,9 @@
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\bin\Debug\netcoreapp3.1\ExchangeContextDomain.deps.json
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\bin\Debug\netcoreapp3.1\ExchangeContextDomain.dll
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\bin\Debug\netcoreapp3.1\ExchangeContextDomain.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.csprojAssemblyReference.cache
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.csproj.CoreCompileInputs.cache
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.AssemblyInfoInputs.cache
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.AssemblyInfo.cs
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.dll
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.pdb

@@ -11,7 +11,7 @@ namespace PaymentContextTests.Entities
         public void TestMethod()
         {
             var wallet = new Wallet();
-            wallet.BuyBitcoin();
+            wallet.BuyBitcoin("0,00035738");
         }
     }
 }
