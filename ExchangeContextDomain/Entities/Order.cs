@@ -9,7 +9,14 @@ namespace ExchangeContextDomain.Entities
             CreateDate = DateTime.Now;
             Active = true;
         }
-        public DateTime CreateDate { get; set; }
-        public bool Active { get; set; }
+        public DateTime CreateDate { get; private set; }
+        public bool Active { get; private set; }
+        public string BitcoinQuote { get; private set; }
+
+        /*
+           Cancelar Ordem (usuario),
+           Cancelar Ordem (Porque foi executada)
+           Tipo de ordem (Compra/Venda)
+         */
     }
 }
