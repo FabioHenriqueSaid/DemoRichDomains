@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ExchangeContextDomain.ValueObjects.Enums
+﻿namespace ExchangeContextDomain.ValueObjects.Enums
 {
     public enum EDocumentType
     {
