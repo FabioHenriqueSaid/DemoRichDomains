@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ExchangeContextShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ExchangeContextShared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExchangeContextShared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ExchangeContextShared/1.0.0": {
+      "type": "project",
+      "path": "../ExchangeShared/ExchangeContextShared.csproj",
+      "msbuildProject": "../ExchangeShared/ExchangeContextShared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ExchangeContextShared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\fabio.rezende\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeShared\\ExchangeContextShared.csproj": {
+              "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeShared\\ExchangeContextShared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

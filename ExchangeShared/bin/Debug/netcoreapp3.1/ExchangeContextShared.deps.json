@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ExchangeContextDomain/1.0.0": {
-        "dependencies": {
-          "ExchangeContextShared": "1.0.0"
-        },
-        "runtime": {
-          "ExchangeContextDomain.dll": {}
-        }
-      },
       "ExchangeContextShared/1.0.0": {
         "runtime": {
           "ExchangeContextShared.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ExchangeContextDomain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ExchangeContextShared/1.0.0": {
       "type": "project",
       "serviceable": false,

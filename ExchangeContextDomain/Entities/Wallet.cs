@@ -2,9 +2,11 @@
 
 namespace ExchangeContextDomain.Entities
 {
-    public abstract class Wallet
+    public class Wallet
     {
-        public Wallet(string bitcoinBalance, string reaisbalance)
+        public Wallet(
+            string bitcoinBalance, 
+            string reaisbalance)
         {
             CodeWallet = Guid.NewGuid().ToString();
             BitcoinBalance = bitcoinBalance;

@@ -1,0 +1,14 @@
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csprojAssemblyReference.cache
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csproj.CoreCompileInputs.cache
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.AssemblyInfoInputs.cache
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.AssemblyInfo.cs
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.deps.json
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\PaymentContextTests.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\ExchangeContextDomain.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\ExchangeContextShared.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\ExchangeContextDomain.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\bin\Debug\netcoreapp3.1\ExchangeContextShared.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.csproj.CopyComplete
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.dll
+C:\dev\DemoRichDemons\DemoRichDomains\PaymentContextTests\obj\Debug\netcoreapp3.1\PaymentContextTests.pdb

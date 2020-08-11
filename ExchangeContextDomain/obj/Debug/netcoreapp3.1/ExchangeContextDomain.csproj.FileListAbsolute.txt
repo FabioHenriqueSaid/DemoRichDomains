@@ -7,3 +7,6 @@ C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.AssemblyInfo.cs
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.dll
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\bin\Debug\netcoreapp3.1\ExchangeContextShared.dll
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\bin\Debug\netcoreapp3.1\ExchangeContextShared.pdb
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeContextDomain\obj\Debug\netcoreapp3.1\ExchangeContextDomain.csproj.CopyComplete

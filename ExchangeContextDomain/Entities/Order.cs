@@ -2,7 +2,7 @@
 
 namespace ExchangeContextDomain.Entities
 {
-    private abstract class Order
+    public abstract class Order
     {
         public Order()
         {

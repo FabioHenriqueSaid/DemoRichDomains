@@ -1,10 +1,16 @@
 ﻿using ExchangeContextDomain.ValueObjects.Entities;
+using ExchangeContextShared;
 using System;
 namespace ExchangeContextDomain.Entities
 {
-    public class Client
+    public class Client : Entity
     {
-        public Client(Name name, Document document, Email email, DateTime birthDate)
+        public Client(
+            Name name, 
+            Document document, 
+            Email email,
+            DateTime birthDate
+            )
         {
             CreationDate = DateTime.Now;
             FirstName = name;
@@ -17,9 +23,9 @@ namespace ExchangeContextDomain.Entities
         public DateTime CreationDate { get; set; }
         public Name FirstName { get; private set; }
         public Name LastName { get; private set; }
-        public Document Document { get; set; }
-        public Email Email { get; set; }
-        public DateTime BirthDate { get; set; }
-        public Wallet Wallet { get; set; }
+        public Document Document { get; private set; }
+        public Email Email { get; private  set; }
+        public DateTime BirthDate { get; private set; }
+        public Wallet Wallet { get; private set; }
     }
 }

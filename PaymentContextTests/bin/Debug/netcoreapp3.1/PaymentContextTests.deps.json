@@ -11,8 +11,7 @@
           "ExchangeContextDomain": "1.0.0",
           "Flunt": "1.0.5",
           "Flunt.Br": "1.3.1",
-          "MSTest.TestFramework": "2.1.2",
-          "PaymentContextDomain": "1.0.0"
+          "MSTest.TestFramework": "2.1.2"
         },
         "runtime": {
           "PaymentContextTests.dll": {}
@@ -50,25 +49,16 @@
         }
       },
       "ExchangeContextDomain/1.0.0": {
+        "dependencies": {
+          "ExchangeContextShared": "1.0.0"
+        },
         "runtime": {
           "ExchangeContextDomain.dll": {}
         }
       },
-      "PaymentContextDomain/1.0.0": {
-        "dependencies": {
-          "Flunt": "1.0.5",
-          "PaymentContextShared": "1.0.0"
-        },
+      "ExchangeContextShared/1.0.0": {
         "runtime": {
-          "PaymentContextDomain.dll": {}
-        }
-      },
-      "PaymentContextShared/1.0.0": {
-        "dependencies": {
-          "Flunt": "1.0.5"
-        },
-        "runtime": {
-          "PaymentContextShared.dll": {}
+          "ExchangeContextShared.dll": {}
         }
       }
     }
@@ -105,12 +95,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "PaymentContextDomain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "PaymentContextShared/1.0.0": {
+    "ExchangeContextShared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
