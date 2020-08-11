@@ -1,17 +1,19 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System;
 
 namespace ExchangeContextDomain.Entities
 {
-    public class Wallet
+    public abstract class Wallet
     {
-        public IList<Order> _orders;
+        public Wallet(string bitcoinBalance, string reaisbalance)
+        {
+            CodeWallet = Guid.NewGuid().ToString();
+            BitcoinBalance = bitcoinBalance;
+            Reaisbalance = reaisbalance;
+        }
+
         public string CodeWallet { get; private set; }
         public string BitcoinBalance { get; private set; }
         public string Reaisbalance { get; private set; }
-
-        //Retorna todas as ordens
-        public  IReadOnlyCollection<Order> Orders { get { return _orders.ToArray();  } }
 
         public void BuyBitcoin(string valor) {
             //Verificar se possui saldo

@@ -10,7 +10,7 @@ namespace PaymentContextTests.Entities
         [TestMethod]
         public void TestMethod()
         {
-            var wallet = new Wallet();
+            
         }
     }
 }

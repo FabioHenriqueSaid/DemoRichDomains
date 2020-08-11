@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ExchangeContextDomain.Entities
 {
-    public class Bitcoin
+    private abstract class Bitcoin
     {
     }
 }
