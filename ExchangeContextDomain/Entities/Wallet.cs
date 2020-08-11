@@ -17,12 +17,17 @@ namespace ExchangeContextDomain.Entities
         public string BitcoinBalance { get; private set; }
         public string Reaisbalance { get; private set; }
 
-        public void BuyBitcoin(string valor) {
+        public string TypeOrder { get; private set; }
+
+
+        public void BuyBitcoin(string valor) 
+        {
             //Verificar se possui saldo
             //Quando compra adiciona uma ordem de compra    
             //Gerar numero de ordem
         }
-        public void SellBitcoin() { 
+        public void SellBitcoin() 
+        { 
            //Verificar se possui saldo
            //Quando vende adiciona uma ordem de venda
         }
