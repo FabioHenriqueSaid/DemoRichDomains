@@ -8,7 +8,7 @@ namespace ExchangeContextDomain.ValueObjects.Entities
         {
             Number = number;
         }
-        public string Number { get; set; }
-        public EDocumentType MyProperty { get; set; }
+        public string Number { get; private set; }
+        public EDocumentType MyProperty { get; private set; }
     }
 }

@@ -4,7 +4,7 @@ namespace ExchangeContextDomain.Entities
 {
     public class Client
     {
-        public Client(Name name, string document, string email, DateTime birthDate)
+        public Client(Name name, Document document, Email email, DateTime birthDate)
         {
             CreationDate = DateTime.Now;
             FirstName = name;
@@ -17,10 +17,9 @@ namespace ExchangeContextDomain.Entities
         public DateTime CreationDate { get; set; }
         public Name FirstName { get; private set; }
         public Name LastName { get; private set; }
-        public string Document { get; set; }
-        public string Email { get; set; }
+        public Document Document { get; set; }
+        public Email Email { get; set; }
         public DateTime BirthDate { get; set; }
-        //Carteira
-        //Endereco
+        public Wallet Wallet { get; set; }
     }
 }
