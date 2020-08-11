@@ -1,4 +1,6 @@
-﻿namespace ExchangeContextDomain.ValueObjects.Entities
+﻿using ExchangeContextDomain.ValueObjects.Enums;
+
+namespace ExchangeContextDomain.ValueObjects.Entities
 {
     public class Document
     {
@@ -7,5 +9,6 @@
             Number = number;
         }
         public string Number { get; set; }
+        public EDocumentType MyProperty { get; set; }
     }
 }
