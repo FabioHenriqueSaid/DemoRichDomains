@@ -1,6 +1,4 @@
-﻿using ExchangeContextDomain.Entities;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace PaymentContextTests.Entities
 {
