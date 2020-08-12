@@ -1,9 +1,10 @@
 ﻿using ExchangeContextDomain.ValueObjects.Entities;
-using ExchangeContextShared;
+using ExchangeContextShared.ValueObjects;
 using System;
+
 namespace ExchangeContextDomain.Entities
 {
-    public class Client : Entity
+    public class Client : ValueObject
     {
         public Client(
             Name name, 
@@ -18,6 +19,8 @@ namespace ExchangeContextDomain.Entities
             Document = document;
             Email = email;
             BirthDate = birthDate;
+
+            AddNotifications(name,document,email);
         }
 
         public DateTime CreationDate { get; set; }

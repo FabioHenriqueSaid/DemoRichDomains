@@ -1,8 +1,9 @@
 ﻿using ExchangeContextDomain.ValueObjects.Enums;
+using ExchangeContextShared.ValueObjects;
 
 namespace ExchangeContextDomain.ValueObjects.Entities
 {
-    public class Document
+    public class Document : ValueObject
     {
         public Document(string number)
         {
