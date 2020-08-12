@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sM631b1IsjA4TICY/btWYM5MZRhlwDk01zfgMiGWGCQrrR0453cThc+TKBZI3o70hxoTCjGhZFkYL3g8EVxgdw==",
+  "dgSpecHash": "astq8MaSiezboliSftiQxNAFbR/wcSp+Xvu0a2sAX1N2s50lJA6zrgaoIWS5ndGWFgYGMb7pOwMwuvJeuao38Q==",
   "success": true,
   "projectFilePath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeContextDomain\\ExchangeContextDomain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio.rezende\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,7 +1,6 @@
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\bin\Debug\netcoreapp3.1\ExchangeContextShared.deps.json
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\bin\Debug\netcoreapp3.1\ExchangeContextShared.dll
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\bin\Debug\netcoreapp3.1\ExchangeContextShared.pdb
-C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.csproj.CoreCompileInputs.cache
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.AssemblyInfoInputs.cache
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.AssemblyInfo.cs
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.dll

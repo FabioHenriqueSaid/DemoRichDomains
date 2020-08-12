@@ -11,6 +11,19 @@
           "lib/netstandard2.0/Flunt.dll": {}
         }
       },
+      "ExchangeContextDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ExchangeContextShared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExchangeContextDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExchangeContextDomain.dll": {}
+        }
+      },
       "ExchangeContextShared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -39,6 +52,11 @@
         "lib/netstandard2.0/Flunt.dll"
       ]
     },
+    "ExchangeContextDomain/1.0.0": {
+      "type": "project",
+      "path": "../ExchangeContextDomain/ExchangeContextDomain.csproj",
+      "msbuildProject": "../ExchangeContextDomain/ExchangeContextDomain.csproj"
+    },
     "ExchangeContextShared/1.0.0": {
       "type": "project",
       "path": "../ExchangeShared/ExchangeContextShared.csproj",
@@ -47,7 +65,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ExchangeContextShared >= 1.0.0"
+      "ExchangeContextDomain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -56,11 +74,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeContextDomain\\ExchangeContextDomain.csproj",
-      "projectName": "ExchangeContextDomain",
-      "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeContextDomain\\ExchangeContextDomain.csproj",
+      "projectUniqueName": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\ExchangeContextTests.csproj",
+      "projectName": "ExchangeContextTests",
+      "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\ExchangeContextTests.csproj",
       "packagesPath": "C:\\Users\\fabio.rezende\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeContextDomain\\obj\\",
+      "outputPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabio.rezende\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,8 +94,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeShared\\ExchangeContextShared.csproj": {
-              "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeShared\\ExchangeContextShared.csproj"
+            "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeContextDomain\\ExchangeContextDomain.csproj": {
+              "projectPath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeContextDomain\\ExchangeContextDomain.csproj"
             }
           }
         }
