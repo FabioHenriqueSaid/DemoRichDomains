@@ -6,7 +6,6 @@ namespace ExchangeContextShared
         public Entity() {
             Id = Id;
         }
-
         public Guid Id { get; set; }
     }
 }

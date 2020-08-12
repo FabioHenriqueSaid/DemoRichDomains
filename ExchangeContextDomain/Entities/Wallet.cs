@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ExchangeContextDomain.ValueObjects.Enums;
+using System;
 
 namespace ExchangeContextDomain.Entities
 {
@@ -16,9 +17,7 @@ namespace ExchangeContextDomain.Entities
         public string CodeWallet { get; private set; }
         public string BitcoinBalance { get; private set; }
         public string Reaisbalance { get; private set; }
-
-        public string TypeOrder { get; private set; }
-
+        public ETypeOrder TypeOrder { get; private set; }
 
         public void BuyBitcoin(string valor) 
         {

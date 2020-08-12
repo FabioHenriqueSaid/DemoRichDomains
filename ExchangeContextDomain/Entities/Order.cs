@@ -16,12 +16,11 @@ namespace ExchangeContextDomain.Entities
         public bool Active { get; private set; }
         public string BitcoinQuote { get; private set; }
 
-        public void CancelOrder() {
+        public void CancelOrder() 
+        {
             EndDate = DateTime.Now;
             Active = false;
         }
-
-
         /*
            Cancelar Ordem (usuario),
            Cancelar Ordem (Porque foi executada),
