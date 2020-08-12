@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{64D471
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E6FA108F-F9B4-4E67-8588-EAFF5C7A34EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentContextTests", "PaymentContextTests\PaymentContextTests.csproj", "{5448EDE9-4977-4B17-9B6F-B2C591C4E781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeContextTests", "PaymentContextTests\ExchangeContextTests.csproj", "{5448EDE9-4977-4B17-9B6F-B2C591C4E781}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{6EB4C3D5-B432-4E6B-B464-DFD15B5BFBD8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeContextDomain", "ExchangeContextDomain\ExchangeContextDomain.csproj", "{8AF5D550-5B6F-48F4-AF4E-CD7E62BB60CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeContextShared", "ExchangeShared\ExchangeContextShared.csproj", "{58BD317D-BC77-4C1A-A461-EDB9A0E12CBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeContextShared", "ExchangeShared\ExchangeContextShared.csproj", "{58BD317D-BC77-4C1A-A461-EDB9A0E12CBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

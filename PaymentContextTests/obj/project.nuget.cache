@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zDIxRWszAzqqWbjeucdGlaDZxwqz/80XRhOgSztLnbB7X/ovKAzk0w0L3s1jLcol+1KRdw68vj1qytBfXn2yA==",
+  "dgSpecHash": "7bxlhRtm6UZhbNsmklql8AD0WvBMej8hYEcCgHAQ+G6mbdtuqHgfccR6t4KtTryX9uvggBsNaa6bvjT7LwN2VA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\PaymentContextTests.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\fabio.rezende\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
-    "C:\\Users\\fabio.rezende\\.nuget\\packages\\flunt.br\\1.3.1\\flunt.br.1.3.1.nupkg.sha512",
-    "C:\\Users\\fabio.rezende\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\PaymentContextTests\\ExchangeContextTests.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

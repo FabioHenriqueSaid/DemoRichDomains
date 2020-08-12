@@ -15,7 +15,7 @@ namespace ExchangeContextDomain.Entities
             CreationDate = DateTime.Now;
             FirstName = name;
             LastName = name;
-            Document = document;t
+            Document = document;
             Email = email;
             BirthDate = birthDate;
         }
