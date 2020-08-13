@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeContextDomain", "Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeContextShared", "ExchangeShared\ExchangeContextShared.csproj", "{58BD317D-BC77-4C1A-A461-EDB9A0E12CBE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{60286FC1-4A60-4881-A65C-31E87AA50184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeContextTests", "ExchangeContextTests\ExchangeContextTests.csproj", "{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{58BD317D-BC77-4C1A-A461-EDB9A0E12CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58BD317D-BC77-4C1A-A461-EDB9A0E12CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58BD317D-BC77-4C1A-A461-EDB9A0E12CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8AF5D550-5B6F-48F4-AF4E-CD7E62BB60CF} = {6EB4C3D5-B432-4E6B-B464-DFD15B5BFBD8}
 		{58BD317D-BC77-4C1A-A461-EDB9A0E12CBE} = {64D47178-DF47-42AB-8603-8503B41B7185}
+		{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA} = {60286FC1-4A60-4881-A65C-31E87AA50184}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D2DCDC1-675A-4883-8AFB-1619FF51982E}

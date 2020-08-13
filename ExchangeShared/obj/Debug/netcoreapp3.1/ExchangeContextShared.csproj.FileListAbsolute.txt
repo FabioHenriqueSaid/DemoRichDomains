@@ -6,3 +6,4 @@ C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\Exc
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.dll
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.pdb
 C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.csproj.CoreCompileInputs.cache
+C:\dev\DemoRichDemons\DemoRichDomains\ExchangeShared\obj\Debug\netcoreapp3.1\ExchangeContextShared.csprojAssemblyReference.cache
