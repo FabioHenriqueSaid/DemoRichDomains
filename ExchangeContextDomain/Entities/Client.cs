@@ -1,10 +1,11 @@
 ﻿using ExchangeContextDomain.ValueObjects.Entities;
+using ExchangeContextShared;
 using ExchangeContextShared.ValueObjects;
 using System;
 
 namespace ExchangeContextDomain.Entities
 {
-    public class Client : ValueObject
+    public class Client : Entity
     {
         public Client(
             Name name, 
