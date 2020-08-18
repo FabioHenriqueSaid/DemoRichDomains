@@ -31,5 +31,6 @@ namespace ExchangeContextDomain.Entities
         public Email Email { get; private  set; }
         public DateTime BirthDate { get; private set; }
         public Wallet Wallet { get; private set; }
+       
     }
 }

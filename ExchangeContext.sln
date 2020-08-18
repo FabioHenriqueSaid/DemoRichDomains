@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeContextShared", "Ex
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{60286FC1-4A60-4881-A65C-31E87AA50184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeContextTests", "ExchangeContextTests\ExchangeContextTests.csproj", "{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeContextTests", "ExchangeContextTests\ExchangeContextTests.csproj", "{F5F9BA04-11DD-4C30-B055-AF6CD7863ADA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,5 @@
-Dominios ricos vs anêmicos
-Primitive Obsession
-Value Objects
-Validações (Flunt)
-Design By Contract
+1 - Dominios ricos vs anêmicos
+2 - Primitive Obsession
+3 - Value Objects
+4 - Validações (Flunt)
+5 - Design By Contract
