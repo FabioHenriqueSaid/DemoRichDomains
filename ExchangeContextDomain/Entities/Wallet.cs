@@ -7,17 +7,22 @@ namespace ExchangeContextDomain.Entities
     {
         public Wallet(
             string bitcoinBalance, 
-            string reaisbalance)
+            string reaisbalance,
+            Client client
+            )
         {
             CodeWallet = Guid.NewGuid().ToString();
             BitcoinBalance = bitcoinBalance;
             Reaisbalance = reaisbalance;
+            Client = client;
         }
 
         public string CodeWallet { get; private set; }
         public string BitcoinBalance { get; private set; }
         public string Reaisbalance { get; private set; }
         public ETypeOrder TypeOrder { get; private set; }
+
+        public Client Client { get; private set; }
 
         public void BuyBitcoin(string valor) 
         {
