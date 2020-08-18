@@ -1,0 +1,5 @@
+Dominios ricos vs anêmicos
+Primitive Obsession
+Value Objects
+Validações (Flunt)
+Design By Contract
