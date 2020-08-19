@@ -1089,7 +1089,8 @@
       },
       "ExchangeContextShared/1.0.0": {
         "dependencies": {
-          "Flunt": "1.0.5"
+          "Flunt": "1.0.5",
+          "MSTest.TestFramework": "2.1.0"
         },
         "runtime": {
           "ExchangeContextShared.dll": {}

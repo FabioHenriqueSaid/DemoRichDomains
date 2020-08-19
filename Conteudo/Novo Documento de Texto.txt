@@ -3,3 +3,5 @@
 3 - Value Objects
 4 - Validações (Flunt)
 5 - Design By Contract
+6 - CQRS
+7 - Repository Pattern
