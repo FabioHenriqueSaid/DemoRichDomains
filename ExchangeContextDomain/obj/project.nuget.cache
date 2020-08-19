@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "astq8MaSiezboliSftiQxNAFbR/wcSp+Xvu0a2sAX1N2s50lJA6zrgaoIWS5ndGWFgYGMb7pOwMwuvJeuao38Q==",
+  "dgSpecHash": "4hO9U14xd99qG4BhZeM2MeFEx/taCQi5p/L1KwSy1947K2vBjUJcd6IYP7hY2aLSp1JdGZK9pqt/IjQZvAX91Q==",
   "success": true,
   "projectFilePath": "C:\\dev\\DemoRichDemons\\DemoRichDomains\\ExchangeContextDomain\\ExchangeContextDomain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fabio.rezende\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+    "C:\\Users\\fabio.rezende\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\fabio.rezende\\.nuget\\packages\\mstest.testframework\\2.1.0\\mstest.testframework.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }

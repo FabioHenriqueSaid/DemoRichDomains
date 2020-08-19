@@ -171,6 +171,10 @@
             "Flunt": {
               "target": "Package",
               "version": "[1.0.5, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             }
           },
           "imports": [

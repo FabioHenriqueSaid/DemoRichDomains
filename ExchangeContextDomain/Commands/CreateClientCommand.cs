@@ -7,14 +7,14 @@ namespace ExchangeContextDomain.Commands
 {
     public class CreateClientCommand : Notifiable, ICommand
     {
-        public string FirstName { get; private set; }
-        public string LastName { get; private set; }
+        public string FirstName { get;  set; }
+        public string LastName { get;  set; }
         public string Document { get; set; }
         public string Email { get; set; }
 
 
         public DateTime CreationDate { get; set; }
-        public DateTime BirthDate { get; private set; }
+        public DateTime BirthDate { get;  set; }
         public void Validate()
         {
             AddNotifications(new Contract()
